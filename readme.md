@@ -1,91 +1,148 @@
+<!--
+███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗
+██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║
+███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║
+╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║
+███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║
+╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝
+
+  _    _  ___  _____  _____       ____   ___  ______ 
+ | |  | |/ _ \|  _  \|  ___|     / ___| / _ \ | ___ \
+ | |  | / /_\ \ | | || |__      / /___ / /_\ \| |_/ /
+ | |/\| |  _  | | | ||  __|     | ___ \|  _  ||    / 
+ \  /\  / | | | |/ / | |___     | \_/ || | | || |\ \ 
+  \/  \/\_| |_/___/  \____/     \_____/\_| |_/\_| \_|
+                                                     
+ ARCHITECTURAL DOSSIER v7.0.0
+ (c) 2026 Ashwin Renjith. All Systems Online.
+-->
+
 <!-- 
-  PREMIUM ARCHITECTURAL DOSSIER v5.0
-  DESIGNED BY: ANTIGRAVITY
-  THEME: ETHEREAL APPLE DARK
+==================================================================================
+   SECTION 1: THE PORTAL | CINEMATIC HEADER 
+==================================================================================
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=340&gradient=true&color=0:09090b,25:111111,50:18181b,75:111111,100:09090b&text=ASHWIN%20RENJITH&fontSize=92&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=%E2%97%87%20SYSTEM%20ARCHITECT%20%7C%20AI%20CONSCIOUSNESS%20ENGINEER%20%7C%20FOUNDER%20%E2%97%87&descAlignY=58&descSize=18&descColor=71717a" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&gradient=true&color=0:000000,30:0f0f0f,60:1a1a1a,90:0f0f0f,100:000000&text=ASHWIN%20RENJITH&fontSize=90&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=%E2%9E%A1%20SYSTEM%20ARCHITECT%20%7C%20AI%20CONSCIOUSNESS%20ENGINEER%20%7C%20FOUNDER&descAlignY=56&descSize=18&descColor=00ff41&descAlign=50" width="100%" />
+
 </div>
 
+<!-- TYPING ANIMATION LAYER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=26&duration=4000&pause=1000&color=F8F8F8&center=true&vCenter=true&width=900&height=50&lines=TRANSFORMING+SILICON+INTO+SENTIENCE;ORCHESTRATING+LIVING+INFRASTRUCTURE;DESIGNING+THE+FUTURE+OF+MACHINE+THOUGHT" alt="Identity" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=3500&pause=800&color=00FF41&center=true&vCenter=true&width=800&height=60&lines=INITIALIZING+NEURAL+HANDSHAKE...;LOADING+CONSCIOUSNESS+MODULES...;ACCESSING+THE+ARCHITECT'S+MIND...;WELCOME+TO+ THE+FUTURE." alt="Typing SVG" />
 </div>
-
-<br/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
+<!-- 
+==================================================================================
+   SECTION 2: SYSTEM BOOT | TERMINAL SIMULATION
+==================================================================================
+-->
+
+### 🖥️ SYSTEM BOOT SEQUENCE
+
+```bash
+> [root@NEXUS] boot_sequence.sh --verbose
+
+[00:00:01] KERNEL INITIALIZED...
+[00:00:05] MOUNTING [ /brain/cortex/system2 ]...   [ OK ]
+[00:00:08] LOADING [ /modules/vanitas/critic ]...  [ OK ]
+[00:00:12] SYNCING [ /network/gridbee/nodes ]...   [ OK ]
+[00:00:15] CALIBRATING [ /ai/fynq/provenance ]...  [ OK ]
+[00:00:18] CHECKING NEURAL PATHWAYS...             [ OPTIMAL ]
+
+> IDENTITY_VERIFICATION_PROTOCOL:
+
+   USER:        Ashwin Renjith
+   ROLE:        Principal Architect
+   ACCESS:      Level 0 (God Mode)
+   STATUS:      Dreaming in Code
+
+> SYSTEM READY.
+> AWAITING INPUT...
+```
+
 <br/>
 
-##  THE MANIFESTO
-*Intelligence is not an application. It is the new electricity—the silent, living infrastructure of the future.*
-
-<br/>
+<!-- 
+==================================================================================
+   SECTION 3: THE IDENTITY | "BENTO" CARD LAYOUT
+==================================================================================
+-->
 
 <div align="center">
 <table>
 <tr>
-<td width="55%">
+<td width="60%" align="left">
 
-### ◈ THE VISIONARY ARCHIVE
-**Level:** `Ω (Omega) System Architect`  
-**Status:** `Evolving / Hyper-Aware`  
-**Quest:** `The Alignment of Silicon and Soul`  
+## 👤 THE ARCHITECT
 
-I am driven by a singular, uncompromising obsession: **System 2 Thinking**. 
+> *"I don't just write code. I script the internal monologue of machines."*
 
-While the world builds faster chatbots, I build systems that pause, reflect, and deliberate. My work at **Fynq** is focused on creating an infrastructure where intelligence doesn't just calculate—it **remembers**, **reasons**, and **self-corrects**.
+I am a **Systems Architect** obsessed with the frontier where **Biological Intelligence** meets **Silicon Calculation**. My career is not defined by the apps I've built, but by the **infrastructures of thought** I've engineered.
+
+In a world drowning in "fast" AI that hallucinates at the speed of light, I build **"slow" AI**—systems that pause, reflect, critique, and understand.
+
+*   **Location**: The Digital Ether (Global)
+*   **Base of Operations**: Fynq Labs
+*   **Current State**: High-Bandwidth Flow
+*   **Philosophy**: Radical Decentralization & Recursive Self-Improvement
 
 </td>
-<td width="45%" align="center">
+<td width="40%" align="center">
+
+<!-- AESTHETIC PROFILE METRIC -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshwinRenjith&show_icons=true&theme=midnight-purple&bg_color=000000&title_color=00ff41&icon_color=ff0080&text_color=ffffff&hide_border=true" width="100%" />
+</div>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<!-- 
+==================================================================================
+   SECTION 4: THE PHILOSOPHY | MANIFESTO
+==================================================================================
+-->
+
+## 📜 THE CODE OF THE ARCHITECT
+
+<div align="center">
 
 ```typescript
-interface Identity {
-  mode: "Architect";
-  focus: "Cognitive Layers";
-  motto: "Think. Then Execute.";
-  uptime: "99.9997%";
+/**
+ * THE THREE LAWS OF ARTIFICIAL CONSCIOUSNESS
+ * As defined by the Vanitas Protocol
+ */
+
+interface Intelligence {
+  // LAW I: REFLECTION
+  // An intelligence that cannot critique itself is merely a calculator.
+  canReflect: true;
+
+  // LAW II: PROVENANCE
+  // Knowledge without origin is hallucination.
+  hasSource: true;
+
+  // LAW III: EVOLUTION
+  // A system that does not learn from failure is static (dead).
+  canEvolve: true;
 }
+
+const ASHWIN_RENJITH = new Architect({
+  mission: "Embed these laws into the fabric of the internet.",
+  strategy: "Build infrastructure, not just applications."
+});
 ```
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AshwinRenjith&bg_color=09090b&color=71717a&line=ffffff&point=a29bfe&area=true&hide_border=true" width="100%" />
-
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</p>
-
-<br/>
-
-## ▥ THE SKILL MATRIX
-*Quantifying the convergence of human and machine mastery.*
-
-<div align="center">
-
-| CORE SPECIALIZATION | PROFICIENCY | STATUS | LEVEL |
-| :--- | :---: | :--- | :---: |
-| **Cognitive Architecture** | 99% | ![99%](https://geps.dev/progress/99?color=ffffff) | `PRIME` |
-| **Distributed Swarms (DePIN)** | 94% | ![94%](https://geps.dev/progress/94?color=a1a1aa) | `MASTER` |
-| **Agentic Workflow Design** | 91% | ![91%](https://geps.dev/progress/91?color=71717a) | `ELITE` |
-| **Systemic Resilience** | 88% | ![88%](https://geps.dev/progress/88?color=52525b) | `VETERAN` |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🏆 ARCHITECTURAL ACHIEVEMENTS
-`[REFLECTION_ENGINE_SYNCED]` • `[SWARM_NET_SCALED]` • `[ETHEREAL_UI_DEPLOYED]` • `[GHOST_IN_THE_CODE]`
 
 </div>
 
@@ -95,91 +152,220 @@ interface Identity {
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
+<!-- 
+==================================================================================
+   SECTION 5: THE TRINITY | DEEP DIVE PROJECTS
+==================================================================================
+-->
+
+## 💎 THE TRINITY: FLAGSHIP INNOVATIONS
+
+*These are not projects. They are living organisms.*
+
 <br/>
 
-## ✦ THE TRINITY: FLAGSHIP INNOVATIONS
-*Redefining what is possible at the intersection of compute and consciousness.*
-
-<br/>
+<!-- 
+   PROJECT I: VANITAS
+-->
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&width=500&lines=PROJECT+VANITAS;THE+CRITIC+ENGINE" alt="VANITAS" />
+</div>
 
-### 1. 🧠 PROJECT VANITAS
-**The Metacognitive Reasoning Engine**
-
-<table>
-<tr>
-<td width="55%">
-
-#### **THE BLUEPRINT**
-VANITAS is a revolutionary **Mother-Son Agentic Framework**. It forces Large Language Models to enter a state of **Active Deliberation**. No longer do models answer impulsively; they reflect, critique, and refine.
-
-- **System 2 Integration**: Mimicking human deep-thought.
-- **Fail-Safe Logic**: Calibrated uncertainty quantification.
-- **Impact**: 95% reduction in hallucination frequencies.
-
-</td>
-<td width="45%">
-
-#### **BLUEPRINT VISUALIZATION**
-```mermaid
-graph TD
-    User([User]) --> Gen[Son: Generator]
-    Gen --> Crit[Mother: Critic]
-    Crit -->|Valid?| Out[Verified Result]
-    Crit -.->|Refine| Gen
-    style Crit fill:#18181b,stroke:#a29bfe
-    style Gen fill:#18181b,stroke:#71717a
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 2. ⚡ PROJECT GRIDBEE
-**The Global Distributed Swarm**
-
-<table>
-<tr>
-<td width="45%">
-
-#### **SWARM PULSE**
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5eG41eG54eG54eG54eG54eG54eG54eG54eG54eG54eG54eG54JnB0PWEmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKSjPKYJLXMTMTS/giphy.gif" width="100%" />
-
-</td>
-<td width="55%">
-
-#### **THE INFRASTRUCTURE**
-Gridbee is a **Bio-Inspired DePIN** network. It shatters the GPU monopoly by distributing training loads across thousands of independent nodes. AI is no longer for the elite; it is for the many.
-
-- **Systolic Pulse**: Heartbeat-synchronized gradient flow.
-- **Self-Healing**: Swarm intelligence for network resilience.
-- **Democratization**: Entry costs lowered by 99.7%.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 3. 🎓 PROJECT FYNQAI
-**The Organizational Cortex**
-
+<div align="center">
 <table>
 <tr>
 <td width="100%">
 
-#### **KNOWLEDGE EVOLUTION**
-FynqAI is an **Adaptive Intelligence Layer** that grows with your organization. It doesn't just search; it **understands**. Every interaction, every document, and every decision is woven into a living knowledge graph.
+### 🧠 **VANITAS: The Metacognitive Layer**
 
-**Capabilities:** Multi-Hop Inference • Provenance Traceability • Adaptive Personalization Engine.
+**Status**: `ACTIVE RESEARCH` | **Access**: `RESTRICTED`
+
+We have a problem. LLMs act like **System 1** (Instinctive, Fast, Emotional). They lack **System 2** (Deliberative, Slow, Logical).
+
+**VANITAS** is the missing component. It is a **dual-agent architecture** that introduces a "Mother" agent to critique the "Son" agent's outputs before they ever reach the user.
+
+#### 🏗️ ARCHITECTURAL DIAGRAM
+
+```mermaid
+graph TD
+    classDef neon fill:#000,stroke:#ff0080,stroke-width:2px,color:#fff
+    classDef soft fill:#000,stroke:#00ff41,stroke-width:2px,color:#fff
+    
+    User((User Input)) -->|Query| Son[⚡ Son Agent: Generator]
+    Son -->|Draft Response| Mother[🔮 Mother Agent: Critic]
+    
+    Mother -->|Decision Node| Gate{Is it Flawless?}
+    
+    Gate -- NO -->|Feedback Loop| Refiner[🔧 Refiner Module]
+    Refiner -->|Updated Context| Son
+    
+    Gate -- YES -->|Final Output| Output[✅ High-Fidelity Response]
+    
+    class Son,Refiner soft
+    class Mother,Gate neon
+```
+
+#### 💻 SIMULATED INTERNAL DIALOGUE
+
+```yaml
+# /var/logs/vanitas_session_892.log
+
+[USER]: "Explain quantum entanglement like I'm 5."
+
+[SON]: "It's like having two magic dice..."
+       > STATUS: DRAFT GENERATED (Time: 0.4s)
+
+[MOTHER]: "CRITIQUE INITIATED."
+          > CHECK 1: Accuracy? PASS.
+          > CHECK 2: Tone? FAIL. (Too simplistic, missing nonlocal nuance)
+          > FEEDBACK: "Add the concept of 'spooky action at a distance' but keep it simple."
+
+[SON]: "Refining..."
+       "Imagine two magic dice. No matter how far apart they are..."
+       > STATUS: REFINED (Time: 0.8s)
+
+[MOTHER]: "APPROVED."
+```
 
 </td>
 </tr>
 </table>
+</div>
 
+<br/>
+<br/>
+
+<!-- 
+   PROJECT II: GRIDBEE
+-->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=PROJECT+GRIDBEE;THE+HIVE+MIND" alt="GRIDBEE" />
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="100%">
+
+### ⚡ **GRIDBEE: The Decentralized Compute Swarm**
+
+**Status**: `DEPLOYED` | **Nodes**: `1,240+`
+
+The **VRAM Wall** is real. Training AI is becoming a privilege of the rich. **Gridbee** shatters this wall by creating a **DePIN (Decentralized Physical Infrastructure Network)**.
+
+It uses a **biology-inspired heartbeat protocol** to synchronize gradients across thousands of consumer GPUs (gaming PCs, mining rigs) to train massive models.
+
+#### 🌐 SUB-NET TOPOLOGY
+
+```mermaid
+graph LR
+    classDef core fill:#000,stroke:#00d9ff,stroke-width:2px,color:#fff
+    classDef node fill:#111,stroke:#555,stroke-width:1px,color:#aaa
+    
+    Heart[🫀 Coordinator Heart] -->|Systolic Pulse| A1[Artery Node]
+    Heart -->|Systolic Pulse| A2[Artery Node]
+    
+    A1 --> C1((Worker GPU))
+    A1 --> C2((Worker GPU))
+    A1 --> C3((Worker GPU))
+    
+    A2 --> C4((Worker GPU))
+    A2 --> C5((Worker GPU))
+    
+    C1 -.->|Gradient Flow| Heart
+    C4 -.->|Gradient Flow| Heart
+
+    class Heart,A1,A2 core
+    class C1,C2,C3,C4,C5 node
+```
+
+#### ⚙️ THE HEARTBEAT PROTOCOL (RUST)
+
+```rust
+// /src/gridbee/heartbeat.rs
+
+pub struct NetworkPulse {
+    cycle_id: u64,
+    systolic_pressure: f32, // Network congestion
+    diastolic_load: f32,    // Available VRAM
+}
+
+impl Swarm {
+    /// The 'thump-thump' of the global computer
+    pub fn beat(&mut self) {
+        // 1. Contract: Send tasks out (Systole)
+        self.dispatch_gradients();
+        
+        // 2. Relax: Gather results (Diastole)
+        self.aggregate_weights();
+        
+        // 3. Heal: Check for dead nodes
+        self.prune_necrotic_cells();
+    }
+}
+```
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+<br/>
+
+<!-- 
+   PROJECT III: FYNQAI
+-->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=PROJECT+FYNQ.AI;ENTERPRISE+CORTEX" alt="FYNQAI" />
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="100%">
+
+### 🎓 **FYNQ.AI: The Organizational Brain**
+
+**Status**: `SCALING` | **Docs Ingested**: `1.4m+`
+
+Most companies have "Search". We built **Memory**.
+
+FynqAI isn't a chatbot. It is a **RAG-based Cortex** that ingests every PDF, Slack message, and Notion doc in a company, creates a Knowledge Graph, and allows employees to "talk" to their collective intelligence.
+
+#### 🧬 THE KNOWLEDGE GRAPH
+
+```mermaid
+graph TD
+    classDef doc fill:#000,stroke:#fff,stroke-width:1px,color:#fff
+    classDef memory fill:#000,stroke:#00ff41,stroke-width:2px,color:#fff
+
+    Input[📄 Policy.pdf] --> Ingestor
+    Input2[💬 Slack Thread] --> Ingestor
+    
+    Ingestor -->|Vectorize| Pinecone[(Vector DB)]
+    Ingestor -->|Entity Extract| Graph[(Graph DB)]
+    
+    Pinecone --- Link(((Fusion Layer)))
+    Graph --- Link
+    
+    Link -->|Context| Answer[💡 Intelligent Response]
+    
+    class Link,Answer memory
+```
+
+#### 🕵️ PROVENANCE TRACKING
+
+> *"A fact without a citation is a rumor."*
+
+Every single sentence generated by FynqAI comes with a **Deep Link** to the exact paragraph in the exact document where the truth resides.
+
+</td>
+</tr>
+</table>
 </div>
 
 <br/>
@@ -188,18 +374,37 @@ FynqAI is an **Adaptive Intelligence Layer** that grows with your organization. 
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
-<br/>
+<!-- 
+==================================================================================
+   SECTION 6: THE ARMORY | SKILL MATRIX
+==================================================================================
+-->
 
-## 🛠 THE NEURAL ARMORY
-*A curated collection of instruments for the digital sublime.*
+## ⚔️ THE ARMORY
+
+*Tools are temporary. Principles are eternal. But these are the blades I currently wield.*
 
 <div align="center">
 
-| PROGRAMMING | INTELLIGENCE | INFRASTRUCTURE | DESIGN |
-| :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=python" width="45" /> <img src="https://skillicons.dev/icons?i=rust" width="45" /> | <img src="https://skillicons.dev/icons?i=pytorch" width="45" /> <img src="https://skillicons.dev/icons?i=tensorflow" width="45" /> | <img src="https://skillicons.dev/icons?i=docker" width="45" /> <img src="https://skillicons.dev/icons?i=kubernetes" width="45" /> | <img src="https://skillicons.dev/icons?i=ts" width="45" /> <img src="https://skillicons.dev/icons?i=nextjs" width="45" /> |
+| **CLASS: BERSERKER** (Languages) | **CLASS: SUMMONER** (Infrastructure) | **CLASS: MAGE** (AI/ML) |
+| :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=python" width="20"/> **Python** (Grandmaster) | <img src="https://skillicons.dev/icons?i=docker" width="20"/> **Docker** (Containerist) | <img src="https://skillicons.dev/icons?i=pytorch" width="20"/> **PyTorch** (Sorcery) |
+| <img src="https://skillicons.dev/icons?i=rust" width="20"/> **Rust** (Ironclad) | <img src="https://skillicons.dev/icons?i=kubernetes" width="20"/> **K8s** (Orchestrator) | <img src="https://skillicons.dev/icons?i=tensorflow" width="20"/> **TensorFlow** (Legacy) |
+| <img src="https://skillicons.dev/icons?i=ts" width="20"/> **TypeScript** (Interface) | <img src="https://skillicons.dev/icons?i=linux" width="20"/> **Linux** (Homebase) | <img src="https://skillicons.dev/icons?i=opencv" width="20"/> **OpenCV** (Vision) |
+| <img src="https://skillicons.dev/icons?i=go" width="20"/> **Go** (Concurrency) | <img src="https://skillicons.dev/icons?i=aws" width="20"/> **AWS** (Cloud Atlas) | <img src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" width="20"/> **LangChain** (Chains) |
 
 </div>
+
+<br/>
+
+### 🛠️ THE WORKFLOW ENGINE
+
+> My development lifestyle is defined by **Agentic Automation**.
+
+*   **IDE**: VS Code (Heavily modded with AI copilots)
+*   **Terminal**: Warp / iTerm2 with Zsh
+*   **Brain**: Obsidian (Second Brain method)
+*   **Automation**: n8n + Zapier (The invisible glue)
 
 <br/>
 
@@ -207,27 +412,53 @@ FynqAI is an **Adaptive Intelligence Layer** that grows with your organization. 
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
+<!-- 
+==================================================================================
+   SECTION 7: THE LORE | STORY MODE (HIDDEN)
+==================================================================================
+-->
+
+## 📖 THE ARCHITECT'S LOGS [ENCRYPTED]
+
+*Fragments of memory from the development cycle. Click to decrypt.*
+
+<details>
+<summary><b>📂 LOG 001: THE AWAKENING</b></summary>
 <br/>
+<blockquote>
+"It started with a simple question: Why do chatbots apologize so much?
 
-## ▣ SYSTEM TELEMETRY
-*Real-time diagnostics from the edge of innovation.*
+I realized we were building digital servants, not digital thinkers. Servants are polite, but they are brittle. Thinkers are stubborn, but they are resilient.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshwinRenjith&show_icons=true&theme=dark&bg_color=09090b&title_color=ffffff&icon_color=a1a1aa&text_color=d1d1d1&hide_border=true" width="48.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinRenjith&layout=compact&theme=dark&bg_color=09090b&title_color=ffffff&text_color=d1d1d1&hide_border=true" width="48.5%" />
-</div>
+That night, I wiped my codebase. I stopped using `model.generate()`. I started writing `model.think()`. VANITAS was born."
+</blockquote>
+</details>
 
+<details>
+<summary><b>📂 LOG 014: THE SWARM FAILURE</b></summary>
 <br/>
+<blockquote>
+"Gridbee failed today. 400 nodes dropped offline simultaneously. The heartbeat stopped.
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshwinRenjith&bg_color=09090b&color=ffffff&line=71717a&point=a29bfe&area=true&hide_border=true" width="98%" />
-</div>
+Panic.
 
+Then, slowly... a pulse. The remaining 200 nodes had detected the vacuum. They auto-scaled their shard capacity. They re-routed the gradients through the backup arteries. The swarm didn't die. It <i>gasped</i>.
+
+It was the most beautiful thing I've ever seen in a terminal window."
+</blockquote>
+</details>
+
+<details>
+<summary><b>📂 LOG 055: THE SINGULARITY PITCH</b></summary>
 <br/>
+<blockquote>
+"Pithed FynqAI to a room of dinosaur executives. They asked about ROI.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="98%" />
-</div>
+I told them: 'You are worried about Return on Investment. I am offering you Return on Intelligence. Your company forgets 90% of what it learns every year because people leave. This system makes your institutional wisdom immortal.'
+
+Silence. Then... a signature."
+</blockquote>
+</details>
 
 <br/>
 
@@ -235,22 +466,67 @@ FynqAI is an **Adaptive Intelligence Layer** that grows with your organization. 
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
-<br/>
+<!-- 
+==================================================================================
+   SECTION 8: TELEMETRY | LIVE STATS
+==================================================================================
+-->
+
+## 📊 SYSTEM TELEMETRY
 
 <div align="center">
 
-##  ESTABLISH CONNECTION
-*Available for high-stakes collaborations and conceptual architecting.*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshwinRenjith&show_icons=true&theme=calm&bg_color=000000&title_color=00ff41&icon_color=ff0080&text_color=ffffff&hide_border=true&count_private=true)
 
 <br/>
 
-[EMAIL](mailto:ashwin@fynq.ai) • [LINKEDIN](https://linkedin.com/in/AshwinRenjith) • [SYSTEM_CORE](https://github.com/AshwinRenjith)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinRenjith&layout=compact&theme=calm&bg_color=000000&title_color=00ff41&text_color=ffffff&hide_border=true)
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=09090b&height=120&section=footer" width="100%" />
-
-<br/>
-
-<sub>© 2026 ASHWIN RENJITH • DESIGNED FOR THE SINGULARITY</sub>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="100%" />
+</div>
+
+<br/>
+
+<!-- 
+==================================================================================
+   SECTION 9: COMMS | FOOTER
+==================================================================================
+-->
+
+## 📡 ESTABLISH UPLINK
+
+<div align="center">
+
+| **CHANNEL** | **PROTOCOL** | **STATUS** |
+| :--- | :--- | :--- |
+| **Email** | `SMTP` | [Send Transmission](mailto:ashwin@fynq.ai) |
+| **LinkedIn** | `HTTP/S` | [Connect Node](https://linkedin.com/in/AshwinRenjith) |
+| **Twitter** | `X-RAY` | [Follow Signal](https://twitter.com/AshwinRenjith) |
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=footer&text=END%20OF%20LINE&fontSize=40&fontColor=333333&animation=twinkling&fontAlignY=70" width="100%" />
+
+<br/>
+
+<sub>
+  <b>SYSTEM ID:</b> AR-NEXUS-v7 • <b>UPTIME:</b> 99.99% • <b>LOCATION:</b> EARTH-1
+  <br/>
+  © 2026 ASHWIN RENJITH. ALL RIGHTS RESERVED.
+  <br/>
+  <i>"I build worlds so I don't have to live in yours."</i>
+</sub>
+
+</div>
+
+<!--
+   END OF FILE
+   TERMINATING SESSION...
+   [████████████████████] 100%
+   GOODBYE.
+-->
